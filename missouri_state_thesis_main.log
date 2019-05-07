@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.5.6)  6 MAY 2019 22:10
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.5.6)  7 MAY 2019 14:00
 entering extended mode
 **./missouri_state_thesis_main.tex
 (missouri_state_thesis_main.tex
@@ -738,7 +738,7 @@ Package: appendix 2009/09/02 v1.2b extra appendix facilities
 
 
 Writing index file missouri_state_thesis_main.idx
-No file missouri_state_thesis_main.aux.
+(missouri_state_thesis_main.aux)
 \openout1 = `missouri_state_thesis_main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 27.
@@ -756,6 +756,7 @@ LaTeX Font Info:    ... okay on input line 27.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 27.
 LaTeX Font Info:    ... okay on input line 27.
 LaTeX Font Info:    Try loading font information for OT1+ptm on input line 27.
+
 ("D:\Users\Dipto\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\ot1ptm.fd"
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
@@ -850,6 +851,7 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 27.
 LaTeX Info: Redefining \pageref on input line 27.
 LaTeX Info: Redefining \nameref on input line 27.
+ (missouri_state_thesis_main.out) (missouri_state_thesis_main.out)
 \@outlinefile=\write5
 \openout5 = `missouri_state_thesis_main.out'.
 
@@ -858,11 +860,11 @@ Package caption Info: End \AtBeginDocument code.
  (titlepage.tex
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 6.
- (parameters/thesis_title.txt)
-(parameters/thesis_date.txt)) [1
+ (parameters/thesis_title.txt) (parameters/thesis_date.txt))
+[1
 
-{C:/Users/Dipto/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] (copyright.
-tex [2
+{C:/Users/Dipto/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+(copyright.tex [2
 
 ]
 Overfull \vbox (23.95468pt too high) has occurred while \output is active []
@@ -885,7 +887,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 37--37
 
 ] (acknowledgements.tex) [6
 
-]
+] (missouri_state_thesis_main.toc)
 \tf@toc=\write6
 \openout6 = `missouri_state_thesis_main.toc'.
 
@@ -893,13 +895,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 37--37
 
 
 ]
+(missouri_state_thesis_main.lof)
 \tf@lof=\write7
 \openout7 = `missouri_state_thesis_main.lof'.
 
  [8
 
 
-]
+] (missouri_state_thesis_main.lot)
 \tf@lot=\write8
 \openout8 = `missouri_state_thesis_main.lot'.
 
@@ -907,13 +910,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 37--37
 
 
 ]
-
-Package hyperref Warning: old loa file detected, not used; run LaTeX again.
-
+(missouri_state_thesis_main.loa)
 \tf@loa=\write9
 \openout9 = `missouri_state_thesis_main.loa'.
 
-[10
+ [10
 
 
 ]
@@ -945,9 +946,6 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24.88> not available
 
 Package hyperref Warning: The anchor of a bookmark and its parent's must not
 (hyperref)                be the same. Added a new anchor on input line 4.
-
-
-LaTeX Warning: Reference `alg1' on page 5 undefined on input line 5.
 
 Package hyperref Info: bookmark level for unknown algorithm defaults to 0 on in
 put line 8.
@@ -994,21 +992,12 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 70.
  (missouri_state_thesis_main.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 70.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 70.
+Package rerunfilecheck Info: File `missouri_state_thesis_main.out' has not chan
+ged.
+(rerunfilecheck)             Checksum: 8CA948841491CAB41E6F1C27D8951309;518.
 
-
-Package rerunfilecheck Warning: File `missouri_state_thesis_main.out' has chang
-ed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `missouri_state_thesis_main.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  8CA948841491CAB41E6F1C27D8951309;518.
 
 LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 70.
  )
@@ -1018,13 +1007,13 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 70.
 ### semi simple group (level 1) entered at line 2 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 15297 strings out of 492902
- 239397 string characters out of 3123807
- 561116 words of memory out of 3000000
- 18826 multiletter control sequences out of 15000+200000
+ 15322 strings out of 492902
+ 241078 string characters out of 3123807
+ 561252 words of memory out of 3000000
+ 18837 multiletter control sequences out of 15000+200000
  18935 words of font info for 45 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 52i,11n,72p,1043b,2252s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 52i,11n,72p,1043b,2257s stack positions out of 5000i,500n,10000p,200000b,50000s
 {D:/Users/Dipto/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvi
 ps/base/8r.enc}<D:/Users/Dipto/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
 blic/amsfonts/cm/cmmi12.pfb><D:/Users/Dipto/AppData/Local/Programs/MiKTeX 2.9/f
@@ -1037,9 +1026,9 @@ s/Dipto/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/courier/ucrr8a.pfb><D
 .pfb><D:/Users/Dipto/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/ut
 mb8a.pfb><D:/Users/Dipto/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/time
 s/utmr8a.pfb>
-Output written on missouri_state_thesis_main.pdf (18 pages, 125713 bytes).
+Output written on missouri_state_thesis_main.pdf (18 pages, 130813 bytes).
 PDF statistics:
- 197 PDF objects out of 1000 (max. 8388607)
+ 240 PDF objects out of 1000 (max. 8388607)
  80 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 81 words of extra memory for PDF output out of 10000 (max. 10000000)
 
