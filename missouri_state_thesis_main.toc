@@ -1,0 +1,10 @@
+\contentsline {chapter}{Introduction}{1}{chapter*.5}% 
+\contentsline {section}{Spacing}{1}{section*.6}% 
+\contentsline {section}{Headings}{1}{section*.6}% 
+\contentsline {chapter}{Conclusion}{3}{chapter*.7}% 
+\contentsline {chapter}{References}{3}{chapter*.7}% 
+\contentsline {chapter}{Appendices}{4}{section*.8}% 
+\contentsline {chapter}{Algorithms}{5}{Appendix*.9}% 
+\contentsline {section}{Sample Algorithm}{5}{section*.10}% 
+\contentsline {chapter}{Codes}{6}{Appendix*.11}% 
+\contentsline {section}{Sample Code}{6}{section*.12}% 
