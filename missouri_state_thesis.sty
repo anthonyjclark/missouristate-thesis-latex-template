@@ -94,7 +94,8 @@
 \newcommand*{\justifyheading}{\raggedright}
 \titleformat{\chapter}{\normalfont\bfseries\centering}{\MakeUppercase{\thechapter}}{.25cm}{ }[ ]
 \titleformat{\section}{\normalfont\bfseries\justifyheading}{\thesection}{1em}{}
-\titleformat{\subsection}{\normalfont\bfseries\justifyheading}{\thesubsection}{1em}{}
+\titleformat{\subsection}[runin]{\normalfont\bfseries\justifyheading}{\thesubsection}{1em}{}
+\titleformat{\subsubsection}[runin]{\normalfont\normalsize\bfseries}{\thesubsubsection}{1em}{}
 
 % \titlespacing*{commandi}{lefti}{before-sepi}{after-sepi}[right-sepi]
 \titlespacing{\chapter}{0.5\textwidth}{0pt}{25pt}
